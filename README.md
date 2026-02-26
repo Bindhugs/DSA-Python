@@ -19,5 +19,10 @@ A program which inserts, deletes, and displays the element in the stack.
 
 File: `Stack.py`
 
+### Tree Traversal
+A program which gives the inorder, preorder, postorder of the binary tree
+
+File: `Tree Traversal.py`
+
 ## Author
 Bindhu G S
