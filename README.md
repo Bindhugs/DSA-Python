@@ -14,5 +14,10 @@ Generates random numbers using Python's random module.
 
 File: `random_number.py`
 
+### Stack Operations
+A program which inserts, deletes, and displays the element in the stack.
+
+File: `Stack.py`
+
 ## Author
 Bindhu G S
