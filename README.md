@@ -12,7 +12,7 @@ File: `traffic_signal.py`
 ### Random Number Generator
 Generates random numbers using Python's random module.
 
-File: `random_number_generator.py`
+File: `random_number.py`
 
 ## Author
 Bindhu G S
