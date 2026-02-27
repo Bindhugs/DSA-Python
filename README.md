@@ -24,5 +24,10 @@ A program which gives the inorder, preorder, postorder of the binary tree
 
 File: `Tree Traversal.py`
 
+### Array 
+To find the largest of the array given by the user
+
+File: `Array`
+
 ## Author
 Bindhu G S
