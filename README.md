@@ -21,9 +21,12 @@ A program that performs inorder, preorder, and postorder traversal of a binary t
 File: `Tree_Traversal.py`
 
 ### Array 
-Finds the largest element in a user-given array.
-
+Finds the largest element in a user-given array
 File: `Array`
 
+### Reverse of Array
+Reversing an array of a user given array
+File: `Reversing_Array`
 ## Author
 Bindhu G S
+

@@ -11,4 +11,3 @@ while True:
         print("GO")
     else:
         print("LIGHT IS BROKEN")
-
