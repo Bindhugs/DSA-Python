@@ -22,11 +22,25 @@ File: `Tree_Traversal.py`
 
 ### Array 
 Finds the largest element in a user-given array
-File: `Array`
+File: `Array.py`
 
 ### Reverse of Array
 Reversing an array of a user given array
-File: `Reversing_Array`
+File: `Reverse_Array.py`
+
+### Linear Search
+Search an element in the given unsorted list
+File: `Linear_search.py`
+
+### Factorial using Recursion
+To find the factorial of any element
+File: `Factorial_recursion.py`
+
+### Fibonacci using Recursion
+To find the fibonacci series
+File: `Fibonacci.py`
+
+
 ## Author
 Bindhu G S
 
