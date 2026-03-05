@@ -20,7 +20,7 @@ while True:
             stack[top] = value
             print("Element entered into stack:", value)
             #inserts element to stack
-
+    
     #Pop
     elif choice == "2":
         if top == -1:
