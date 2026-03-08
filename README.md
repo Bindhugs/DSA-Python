@@ -51,6 +51,13 @@ File: `DataFrame.py`
 ### Bubble Sort
 To sort the given numbers using Bubble Sort
 File: `Bubble_Sort.py`
+
+### Selection Sort
+To sort the given numbers using Selection Sort
+File: `Selection_Sort.py`
+
+
+
 ## Author
 Bindhu G S
 
