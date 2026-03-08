@@ -40,7 +40,17 @@ File: `Factorial_recursion.py`
 To find the fibonacci series
 File: `Fibonacci.py`
 
+### Series
+Series using pandas
+File: `Series.py`
 
+### Data Frame
+Data Frame using Pandas
+File: `DataFrame.py`
+
+### Bubble Sort
+To sort the given numbers using Bubble Sort
+File: `Bubble_Sort.py`
 ## Author
 Bindhu G S
 
