@@ -56,7 +56,9 @@ File: `Bubble_Sort.py`
 To sort the given numbers using Selection Sort
 File: `Selection_Sort.py`
 
-
+### Pandas
+All basic operations of Pandas
+File: `Pandas.py
 
 ## Author
 Bindhu G S
