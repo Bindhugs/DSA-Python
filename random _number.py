@@ -1,5 +1,4 @@
 import random
-
 # Number Guessing Game (1–50)
 # The program generates a random number and asks the user to guess it.
 

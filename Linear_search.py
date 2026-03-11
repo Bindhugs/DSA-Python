@@ -1,3 +1,4 @@
+#Linear Search
 arr = []
 n = int(input("Enter number of elements: "))
 
