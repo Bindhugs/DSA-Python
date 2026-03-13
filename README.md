@@ -60,6 +60,11 @@ File: `Selection_Sort.py`
 All basic operations of Pandas
 File: `Pandas.py
 
+### Sliding Window
+Implementation of the sliding window technique to find the maximum sum of a subarray of size k in an array
+File: `Sliding_Window.py`
+
+
 ## Author
 Bindhu G S
 
