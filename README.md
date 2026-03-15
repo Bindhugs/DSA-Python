@@ -4,29 +4,36 @@ This repository contains beginner Python programs created while learning program
 
 ## Programs
 
-### Traffic Signal Simulation
-A simple Python program that simulates traffic light behavior.
-File: `traffic_signal.py`
-
-### Random Number Generator
-Generates random numbers using Python's random module.
-File: `random_number.py`
+### Arrays
+Consists of:
+# Finding largest element
+# Reversing of an array
+# Sliding Window
+# Subarray
 
 ### Stack Operations
 A program that inserts, deletes, and displays elements in a stack
 File: `Stack.py`
 
+### Pandas
+Consits of:
+# Dataframe
+# Pandas
+# Series
+
+### Recursion
+Consists of:
+# Factorial
+# Fibonacci
+
+### Sorting
+Consists of:
+# Bubble Sort
+# Selection Sort
+
 ### Tree Traversal
 A program that performs inorder, preorder, and postorder traversal of a binary tree
 File: `Tree_Traversal.py`
-
-### Array 
-Finds the largest element in a user-given array
-File: `Array.py`
-
-### Reverse of Array
-Reversing an array of a user given array
-File: `Reverse_Array.py`
 
 ### Linear Search
 Search an element in the given unsorted list
