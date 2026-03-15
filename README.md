@@ -2,29 +2,28 @@
 
 This repository contains beginner Python programs created while learning programming and data structures.
 
-## Programs
-
-### Arrays
+## Arrays
 Consists of:
-#### Finding largest element
-#### Reversing of an array
-#### Sliding Window
-#### Subarray
+### Finding largest element
+### Reversing of an array
+### Sliding Window
+### Subarray
 
+## Stack
 ### Stack Operations
 A program that inserts, deletes, and displays elements in a stack
 File: `Stack.py`
 
-### Pandas
+## Pandas
 Consits of:
-# Dataframe
-# Pandas
-# Series
+### Dataframe
+### Pandas
+### Series
 
-### Recursion
+## Recursion
 Consists of:
-# Factorial
-# Fibonacci
+### Factorial
+### Fibonacci
 
 ### Sorting
 Consists of:
