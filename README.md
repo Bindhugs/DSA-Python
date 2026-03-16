@@ -25,21 +25,22 @@ Consists of:
 ### Factorial
 ### Fibonacci
 
-### Sorting
+## Sorting
 Consists of:
-# Bubble Sort
-# Selection Sort
+### Bubble Sort
+### Selection Sort
 
-### Tree Traversal
+## Tree Traversal
 A program that performs inorder, preorder, and postorder traversal of a binary tree
 File: `Tree_Traversal.py`
 
-### Linear Search
+## Searching
 Search an element in the given unsorted list
+### Linear_search.py
 File: `Linear_search.py`
 
-### Factorial using Recursion
-To find the factorial of any element
+## Recursion
+###
 File: `Factorial_recursion.py`
 
 ### Fibonacci using Recursion
