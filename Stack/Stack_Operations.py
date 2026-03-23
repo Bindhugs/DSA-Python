@@ -8,7 +8,7 @@ while True:
     print("3. Display\n")
     print("4. Exit \n")
     choice = input("Enter your choice: ")
-    
+
     #Push    
     if choice == "1":
         if top == len(stack)-1:
