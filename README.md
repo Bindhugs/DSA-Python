@@ -19,8 +19,6 @@ Stack Operations
 
 A program that inserts, deletes, and displays elements in a stack
 
-File: `Stack.py`
-
 ## Pandas
 Consits of:
 
@@ -49,12 +47,13 @@ Inorder,Preorder,Postorder
 
 ## Searching
 Linear_search.py
-File: `Linear_search.py`
 
 ## NumPy
 Consists of:
 
 Basics of Numpy
+
+
 
 ## Author
 Bindhu G S
