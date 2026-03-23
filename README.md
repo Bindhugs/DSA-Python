@@ -4,10 +4,10 @@ This repository contains beginner Python programs created while learning program
 
 ## Arrays
 Consists of:
-### Finding largest element
-### Reversing of an array
-### Sliding Window
-### Subarray
+Finding largest element
+Reversing of an array
+Sliding Window
+Subarray
 
 ## Stack
 ### Stack Operations
