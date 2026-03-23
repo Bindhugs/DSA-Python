@@ -39,6 +39,9 @@ Search an element in the given unsorted list
 ### Linear_search.py
 File: `Linear_search.py`
 
+## NumPy
+Consists of:
+### Basics of Numpy
 
 ## Author
 Bindhu G S
