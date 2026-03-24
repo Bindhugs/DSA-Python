@@ -53,6 +53,8 @@ Consists of:
 
 Basics of Numpy
 
+Examples of NumPy
+
 
 
 ## Author
