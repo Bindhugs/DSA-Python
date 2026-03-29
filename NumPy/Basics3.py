@@ -1,5 +1,6 @@
 import numpy as ap
 
+#broadcasting
 array1 = ap.array([[1,2,3,4],
                    [5,6,7,8],
                    [9,10,11,12],
@@ -10,7 +11,7 @@ print(array1.shape)
 print(array2.shape)
 print(array1*array2)
 
-
+#aggregation functions
 array = ap.array([[1,2,3,4,5],
                   [6,7,8,9,10]])
 print(ap.sum(array)) #sum of all the elemnts
