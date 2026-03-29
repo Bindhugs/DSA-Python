@@ -1,3 +1,4 @@
+# basics
 import numpy as np
 
 #SLICING

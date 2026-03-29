@@ -1,3 +1,4 @@
+# Basics
 import numpy as np
 a = np.array('A') #0d
 b= np.array(['a','b']) #1d

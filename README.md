@@ -2,6 +2,7 @@
 
 This repository contains beginner Python programs created while learning programming and data structures.
 
+
 ## Arrays
 Consists of:
 
@@ -52,6 +53,8 @@ Linear_search.py
 Consists of:
 
 Basics of Numpy
+
+Examples of NumPy
 
 
 

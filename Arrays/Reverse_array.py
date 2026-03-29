@@ -1,3 +1,5 @@
+#Reversing an array
+
 text=input("Enter the string: \n")
 #input of user
 
