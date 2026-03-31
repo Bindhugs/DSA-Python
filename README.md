@@ -43,6 +43,8 @@ Bubble Sort
 
 Selection Sort
 
+Brute Force Pattern Matching(BFPM)
+
 ## Tree Traversal
 Inorder,Preorder,Postorder
 
