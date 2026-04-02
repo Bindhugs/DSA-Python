@@ -6,13 +6,13 @@ This repository contains beginner Python programs created while learning program
 ## Arrays
 Consists of:
 
-Finding largest element
+- Finding largest element
 
-Reversing of an array
+- Reversing of an array
 
-Sliding Window
+- Sliding Window
 
-Subarray
+- Subarray
 
 ## Stack
 
