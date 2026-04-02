@@ -23,45 +23,45 @@ A program that inserts, deletes, and displays elements in a stack
 ## Pandas
 Consits of:
 
-Dataframe
+- Dataframe
 
-Pandas
+- Pandas
 
-Series
+- Series
 
 ## Recursion
 Consists of:
 
-Factorial
+- Factorial
 
-Fibonacci
+- Fibonacci
 
 ## Sorting
 Consists of:
 
-Bubble Sort
+- Bubble Sort
 
-Selection Sort
+- Selection Sort
 
-Brute Force Pattern Matching(BFPM)
+- Brute Force Pattern Matching(BFPM)
 
 ## Tree Traversal
 Inorder,Preorder,Postorder
 
 ## Searching
-Linear_search.py
+- Linear_search.py
 
 ## NumPy
 Consists of:
 
-Basics of Numpy
+- Basics of Numpy
 
-Examples of NumPy
+- Examples of NumPy
 
 ## Matplotlib
 Consists of:
 
-Basics of Matplotlib
+- Basics of Matplotlib
 
 ## Author
 Bindhu G S
