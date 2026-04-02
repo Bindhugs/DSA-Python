@@ -58,7 +58,10 @@ Basics of Numpy
 
 Examples of NumPy
 
+## Matplotlib
+Consists of:
 
+Basics of Matplotlib
 
 ## Author
 Bindhu G S
