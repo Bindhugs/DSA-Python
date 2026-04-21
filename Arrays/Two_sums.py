@@ -1,5 +1,4 @@
-# Input: nums = [2,7,11,15], target = 9
-# Output: [0,1]
+# Two Sum Problem
 
 array = list(map(int, input("Enter the array: ").split()))
 target = int(input("Enter the target element: "))
