@@ -20,15 +20,6 @@ Stack Operations
 
 A program that inserts, deletes, and displays elements in a stack
 
-## Pandas
-Consits of:
-
-- Dataframe
-
-- Pandas
-
-- Series
-
 ## Recursion
 Consists of:
 
@@ -45,23 +36,14 @@ Consists of:
 
 - Brute Force Pattern Matching(BFPM)
 
+- Merge Sort
+
 ## Tree Traversal
 Inorder,Preorder,Postorder
 
 ## Searching
 - Linear_search.py
 
-## NumPy
-Consists of:
-
-- Basics of Numpy
-
-- Examples of NumPy
-
-## Matplotlib
-Consists of:
-
-- Basics of Matplotlib
 
 ## Author
 Bindhu G S
