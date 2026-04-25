@@ -14,18 +14,16 @@ Consists of:
 
 - Subarray
 
-## Stack
-
-Stack Operations
-
-A program that inserts, deletes, and displays elements in a stack
-
 ## Recursion
 Consists of:
 
 - Factorial
 
 - Fibonacci
+
+## Searching
+- Linear_search.py
+
 
 ## Sorting
 Consists of:
@@ -38,13 +36,15 @@ Consists of:
 
 - Merge Sort
 
+## Stack
+
+Stack Operations
+
+A program that inserts, deletes, and displays elements in a stack
+
+
 ## Tree Traversal
 Inorder,Preorder,Postorder
 
-## Searching
-- Linear_search.py
-
-
 ## Author
 Bindhu G S
-
